@@ -1,4 +1,3 @@
-// Tech Trends Shameer
 // Smart Irrigation System
 
 int sensor_pin = A0;
